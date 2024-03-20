@@ -1,5 +1,7 @@
 ## Prowler AWS infrastructure
 
+<img src="1.png" alt="drawing">
+
 <p align="center">Prowler AWS infrastructure</p>      
 
 ## What is a prowler tool in AWS?
@@ -48,7 +50,7 @@ The Prowler tool can be customized to fit specific security requirements. Prowle
 ## Install step prowler
 
 
-```bash                                                                                                                                                                                                                                                                                                                      
+```bash                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 git clone https://github.com/prowler-cloud/prowler
 cd prowler
 poetry shell
@@ -56,15 +58,24 @@ poetry install
 python prowler.py -v
 ```
 
+<img src="2.png" alt="drawing">
+
+
+<img src="3.png" alt="drawing">
+
+
+<img src="4.png" alt="drawing">
+
+
 
 It’s generate report 
 
+<img src="5.png" alt="drawing">
 
 
+## Result 
 
-Result 
-
-
+<img src="6.png" alt="drawing">
 
 
 
